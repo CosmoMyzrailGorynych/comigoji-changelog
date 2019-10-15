@@ -1,0 +1,17 @@
+{
+  "name": "comigoji-changelog",
+  "version": "1.0.0",
+  "description": "Generates a nice changelog from gitmoji/comigoji commit history of several repositories at once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "comigoji-changelog": "./index.js"
+  },
+  "author": "Cosmo Myzrail Gorynych <admin@nersta.ru> https://github.com/CosmoMyzrailGorynych",
+  "license": "ISC",
+  "dependencies": {
+    "gitlog": "^3.1.2"
+  }
+}
