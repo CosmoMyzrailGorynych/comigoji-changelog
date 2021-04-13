@@ -12,6 +12,6 @@
   "author": "Cosmo Myzrail Gorynych <admin@nersta.ru> https://github.com/CosmoMyzrailGorynych",
   "license": "ISC",
   "dependencies": {
-    "gitlog": "^3.1.2"
+    "gitlog": "^4.0.4"
   }
 }
